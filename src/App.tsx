@@ -1014,7 +1014,7 @@ export function App() {
             onClick={() => scrollTo("home")}
             className="group flex items-baseline gap-2 font-mono text-sm tracking-widest"
           >
-            <span className="text-white">JD</span>
+            <span className="text-white">David Ferrusca</span>
             <span
               className="text-white/40 group-hover:text-white"
               style={{ transition: "color 200ms" }}
