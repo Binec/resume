@@ -1749,7 +1749,7 @@ export function App() {
               <Github size={20} />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/david-ferrusca-a0800a104/"
               className="text-white/60 hover:text-white"
               style={{ transition: "color 200ms" }}
               onMouseEnter={(e) =>
@@ -1779,7 +1779,7 @@ export function App() {
               <Mail size={20} />
             </a>
             <a
-              href="#"
+              href="https://www.behance.net/binec"
               className="text-white/60 hover:text-white"
               style={{ transition: "color 200ms" }}
               onMouseEnter={(e) =>
@@ -1795,7 +1795,7 @@ export function App() {
               <Palette size={20} />
             </a>
             <a
-              href="#"
+              href="https://soundcloud.com/david-ferrusca"
               className="text-white/60 hover:text-white"
               style={{ transition: "color 200ms" }}
               onMouseEnter={(e) =>
@@ -1811,7 +1811,7 @@ export function App() {
               <Music size={20} />
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/ferrusca_rea/"
               className="text-white/60 hover:text-white"
               style={{ transition: "color 200ms" }}
               onMouseEnter={(e) =>
