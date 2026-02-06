@@ -13,7 +13,7 @@ export default defineConfig({
   // IMPORTANTE: Cambia esto según tu repositorio
   // Si tu repositorio se llama "resumen1-copia", usa: base: "/resumen1-copia/"
   // Si es tu página principal (usuario.github.io), usa: base: "/"
-  base: "/resumen/", // <- CAMBIA ESTO según tu repositorio
+  base: "/resume/", // <- CAMBIA ESTO según tu repositorio
   
   plugins: [react(), tailwindcss(), viteSingleFile()],
   

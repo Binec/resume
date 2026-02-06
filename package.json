@@ -2,7 +2,7 @@
   "name": "resumen1-copia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tunombre.github.io/resumen1-copia",
+  "homepage": "https://tunombre.github.io/resume",
   "type": "module",
   "scripts": {
     "dev": "vite",
