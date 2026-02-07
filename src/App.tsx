@@ -1,24 +1,3 @@
-import React, { useEffect } from "react";
-import ReactGA from "react-ga4";
-
-// Inicializa con tu ID
-ReactGA.initialize("G-TU_ID_AQUI");
-
-function App() {
-  useEffect(() => {
-    // Envía la visita de página cuando carga el componente
-    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
-  }, []);
-
-  return (
-    <div className="App">
-      <h1>Mi Portafolio</h1>
-      {/* Resto de tu app */}
-    </div>
-  );
-}
-
-export default App;
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   Award,
